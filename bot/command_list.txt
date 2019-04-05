@@ -1,0 +1,59 @@
+bot.py
+    info
+    uptime
+    notes
+    private
+    allow 9
+    disallow 9
+basic.py
+    joke
+    help
+    ban 8
+    kick 5
+    unban 8
+    bans
+    prune 8
+    invite
+    bug
+    clear 5
+    perm
+    reset 7
+    editname 7
+    flipcoin
+    roll
+    rps
+money.py
+	givemoney
+	allmoney
+	addmoney 7
+	submoney 7
+	money
+	balance
+	joinraffle
+	robbank 3
+	lootbox 4
+	changemoneyname 9
+	moneypermessage 9
+	extrarafflecost 9
+	bankrobfee 9
+music.py
+	join
+	leave
+	play
+	pause
+	resume
+	stop
+raffle.py
+	newraffle 8
+	raffle
+	raffleperm 8
+	cancelraffle 8
+roles.py
+	addrole 5
+	ranked
+	pvp
+	fp
+	ops
+	heal
+	tank
+	damage
